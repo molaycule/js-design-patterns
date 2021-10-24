@@ -16,3 +16,5 @@ Creational patterns provide various object creation mechanisms, which increase f
 Structural patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 **Facade Pattern** - Facade is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
+
+**Adapter Pattern** - Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
