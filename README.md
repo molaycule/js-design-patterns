@@ -20,3 +20,6 @@ Structural patterns explain how to assemble objects and classes into larger stru
 **Adapter Pattern** - Adapter is a structural design pattern that allows objects with incompatible interfaces to collaborate.
 
 **Decorator Pattern** - Decorator is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+### Behavioral Patterns
+Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
