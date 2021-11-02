@@ -23,3 +23,5 @@ Structural patterns explain how to assemble objects and classes into larger stru
 
 ### Behavioral Patterns
 Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+**Command Pattern** - Command is a behavioral design pattern that turns a request into a stand-alone object that contains all information about the request. This transformation lets you pass requests as a method arguments, delay or queue a request’s execution, and support undoable operations.
