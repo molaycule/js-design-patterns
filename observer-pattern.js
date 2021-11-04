@@ -19,11 +19,11 @@ class Publisher {
 }
 
 function observer1() {
-  console.log('obserser1 triggered');
+  console.log('observer1 triggered');
 }
 
 function observer2() {
-  console.log('obserser2 triggered');
+  console.log('observer2 triggered');
 }
 
 const publisher = new Publisher();
